@@ -1,0 +1,18 @@
+ELEMENTS — SOURCE NOTES
+
+Based on the user-supplied Euclid-Elements.tex, a Project Gutenberg transcription of John Casey's The First Six Books of the Elements of Euclid. Problem statements and hints are adapted for interactive construction.
+
+45 construction challenges:
+Book I: 1, 2, 3, 9, 10, 11, 12, 22, 23, 31, 42, 44, 45, 46.
+Book II: 11, 14.
+Book III: 1, 17, 25, 30, 33, 34.
+Book IV: 1–16.
+Book VI: 9, 10, 11, 12, 13, 18, 25.
+
+Book V is theoretical. Later books on numbers and solids are outside this two-dimensional game.
+
+General propositions have concrete playable instances; polygon-area tools take quadrilaterals, VI.18 takes a quadrilateral, and VI.25 uses a quadrilateral's area and a triangle's shape. VI.9 challenges division into thirds, and its earned tool supports 2–20 equal divisions.
+
+The three initial operations join two points, extend a line, and describe a circle from a center through a point. Intersections can be selected precisely. Completing a construction unlocks a reusable operation, without requiring a particular proof sequence. Numeric validation is not a formal Euclidean proof.
+
+Game progress is local to the current browser/device.
