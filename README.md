@@ -2,7 +2,7 @@
 
 A static straightedge-and-compass game with 45 construction challenges from Euclid, geometric validation, earned tools, hints, and a free canvas.
 
-This is the published game's editable HTML, CSS, and JavaScript, together with its geometry tests. No API keys, backend, or installation is needed to run the game. See DEPLOY.md for GitHub Pages and Cloudflare Pages.
+This is the published game's editable HTML, CSS, and JavaScript, together with its geometry tests. No API keys, backend, or installation is needed to run the game.
 
 ## Local preview
 
